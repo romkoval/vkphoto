@@ -8,6 +8,7 @@ How to start:
 pip install vk
 pip install pillow
 
+```
 usage: vkphoto.py [-h] [-l] [-a ALBUM] [-c] [-u USER_LOGIN] [-p USER_PASSWORD]
                   [-e FILE_EXTENSIONS]
                   [file [file ...]]
@@ -30,3 +31,4 @@ optional arguments:
                         Comma separated file extensions. Used when directory
                         specified
 
+```
